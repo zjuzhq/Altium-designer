@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=1 NewDesignator=74HC154
+Change Component Designator: OldDesignator=2 NewDesignator=74HC245
+Change Net Name : Old Net Name=Net2_11 New Net Name=Net74HC245_11
+Change Net Name : Old Net Name=Net2_12 New Net Name=Net74HC245_12
+Change Net Name : Old Net Name=Net2_13 New Net Name=Net74HC245_13
+Change Net Name : Old Net Name=Net2_14 New Net Name=Net74HC245_14
+Change Net Name : Old Net Name=Net2_15 New Net Name=Net74HC245_15
+Change Net Name : Old Net Name=Net2_16 New Net Name=Net74HC245_16
+Change Net Name : Old Net Name=Net2_17 New Net Name=Net74HC245_17
+Change Net Name : Old Net Name=Net2_18 New Net Name=Net74HC245_18
+Added Room: Name=mcu

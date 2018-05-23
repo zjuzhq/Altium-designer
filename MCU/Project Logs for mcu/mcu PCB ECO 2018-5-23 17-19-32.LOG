@@ -1,0 +1,3 @@
+Added Component: Designator=DV1(DV1-SS14)
+Added Pin To Net: NetName=NetCH1_2 Pin=DV1-2
+Added Member To Class: ClassName=mcu Member=Component DV1 SS14-肖特基二极管
