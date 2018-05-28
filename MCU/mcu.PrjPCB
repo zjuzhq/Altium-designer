@@ -66,6 +66,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[GeneratedDocument1]
+DocumentPath=
+
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=0
