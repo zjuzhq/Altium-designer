@@ -1,0 +1,11 @@
+Added Component: Designator=S2(DIP6-S2)
+Added Component: Designator=USB1(USB1)
+Added Pin To Net: NetName=+5V Pin=S2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=S2-3
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=NetR5_1 Pin=USB1-2
+Added Pin To Net: NetName=NetR4_1 Pin=USB1-3
+Added Pin To Net: NetName=+5V Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Member To Class: ClassName=mcu Member=Component S2
+Added Member To Class: ClassName=mcu Member=Component USB1

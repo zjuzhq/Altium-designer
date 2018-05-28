@@ -1,0 +1,5 @@
+Added Component: Designator=XTA1(R38)
+Added Pin To Net: NetName=XT1 Pin=XTA1-1
+Added Pin To Net: NetName=XT2 Pin=XTA1-2
+Added Member To Class: ClassName=mcu Member=Component XTA1 12M
+Added Room: Name=mcu

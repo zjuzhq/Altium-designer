@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=XTA2 NewDesignator=XTAL2
+Added Pin To Net: NetName=P31 Pin=CH1-3
+Added Pin To Net: NetName=P30 Pin=DV1-1
+Added Room: Name=mcu

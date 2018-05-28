@@ -1,0 +1,47 @@
+Added Component: Designator=JP1(JP)
+Added Component: Designator=JP2(JP)
+Added Component: Designator=JP3(JP)
+Added Component: Designator=JP4(JP)
+Added Component: Designator=S1(DIP4-S1)
+Added Pin To Net: NetName=P17 Pin=JP1-1
+Added Pin To Net: NetName=P16 Pin=JP1-2
+Added Pin To Net: NetName=P15 Pin=JP1-3
+Added Pin To Net: NetName=P14 Pin=JP1-4
+Added Pin To Net: NetName=P13 Pin=JP1-5
+Added Pin To Net: NetName=P12 Pin=JP1-6
+Added Pin To Net: NetName=P11 Pin=JP1-7
+Added Pin To Net: NetName=P10 Pin=JP1-8
+Added Pin To Net: NetName=P00 Pin=JP2-1
+Added Pin To Net: NetName=P01 Pin=JP2-2
+Added Pin To Net: NetName=P02 Pin=JP2-3
+Added Pin To Net: NetName=P03 Pin=JP2-4
+Added Pin To Net: NetName=P04 Pin=JP2-5
+Added Pin To Net: NetName=P05 Pin=JP2-6
+Added Pin To Net: NetName=P06 Pin=JP2-7
+Added Pin To Net: NetName=P07 Pin=JP2-8
+Added Pin To Net: NetName=P37 Pin=JP3-1
+Added Pin To Net: NetName=P36 Pin=JP3-2
+Added Pin To Net: NetName=P35 Pin=JP3-3
+Added Pin To Net: NetName=P34 Pin=JP3-4
+Added Pin To Net: NetName=P33 Pin=JP3-5
+Added Pin To Net: NetName=P32 Pin=JP3-6
+Added Pin To Net: NetName=P31 Pin=JP3-7
+Added Pin To Net: NetName=P30 Pin=JP3-8
+Added Pin To Net: NetName=P27 Pin=JP4-1
+Added Pin To Net: NetName=P26 Pin=JP4-2
+Added Pin To Net: NetName=P25 Pin=JP4-3
+Added Pin To Net: NetName=P24 Pin=JP4-4
+Added Pin To Net: NetName=P23 Pin=JP4-5
+Added Pin To Net: NetName=P22 Pin=JP4-6
+Added Pin To Net: NetName=P21 Pin=JP4-7
+Added Pin To Net: NetName=P20 Pin=JP4-8
+Added Pin To Net: NetName=VCC Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-2
+Added Pin To Net: NetName=VCC Pin=S1-3
+Added Pin To Net: NetName=RST Pin=S1-4
+Added Member To Class: ClassName=mcu Member=Component JP1
+Added Member To Class: ClassName=mcu Member=Component JP2 JP1
+Added Member To Class: ClassName=mcu Member=Component JP3 JP1
+Added Member To Class: ClassName=mcu Member=Component JP4 JP1
+Added Member To Class: ClassName=mcu Member=Component S1
+Added Room: Name=mcu
